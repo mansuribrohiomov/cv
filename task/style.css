@@ -1,0 +1,17 @@
+.moviebar {
+    /* border: 1px solid ; */
+    height: 350px;
+    display: flex;
+    padding: 10px;
+}
+.third{
+    /* border: 1px solid; */
+    width: 195px;
+    height: 350px;
+    margin-left: 30px;
+    box-shadow: 0px 0px 6px;
+}
+.third p {
+    font-weight: bolder;
+    color: green;
+}
